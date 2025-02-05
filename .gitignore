@@ -1,0 +1,6 @@
+# Ignore pastas
+
+# Ignore Arquivos
+
+# Ignore arquivos de chaves de acesso
+.env
